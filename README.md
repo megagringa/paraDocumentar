@@ -41,7 +41,7 @@ Si le colocas mas numerales saca la linea y el contenido reduce su tamaño.
 
 # Redireccionar
 
-[miGitHub](https://megagringa.github.io/portTerminal/index.html](https://github.com/megagringa) si hacers click te direcciona a mi portfolio.
+[miGitHub](https://github.com/megagringa) si hacers click te direcciona a mi portfolio.
 
 ``` 
 [nombre-que-quieras](link a donde debe ser drireccionado)
