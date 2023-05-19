@@ -47,6 +47,14 @@ Si le colocas mas numerales saca la linea y el contenido reduce su tamaño.
 [nombre-que-quieras](link a donde debe ser drireccionado)
 ```
 
+# Foto
+
+![Foto-Proyecto](https://megagringa.github.io/portTerminal/img/terminal.png)
+
+```
+![Foto-Imagen](Dirección_o_ruta_imagen)
+```
+
 # Iconos
 
 📜💻 algunos iconos para usar
