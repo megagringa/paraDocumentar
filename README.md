@@ -11,6 +11,15 @@ Pone las comillas arriba y abajo del contenido.
 
 Si queres que el contenido luzca grande y tenga una linea divisoria.
 
+# Direccionar en la pagina.
+
+## [Iconos](#iconos) 
+Te traslada al final de la página.
+ ```
+ [Iconos](#iconos) ejemplo de arriba.
+ [nombre](#nombre-igual-dirección)
+ ```
+
 # Cotenido
 ```
 # Contenido // el numeral tiene que tener un espacio de la palabra.
