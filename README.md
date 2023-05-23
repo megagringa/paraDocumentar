@@ -20,9 +20,20 @@ Te traslada al final de la página.
  [nombre](#nombre-igual-dirección)
  ```
 
-# Cotenido
+# Linea Divisoria.
+
+---
+Con hacer tres lineas haces una continua com ola de arriba.
 ```
-# Contenido // el numeral tiene que tener un espacio de la palabra.
+---  
+```
+
+# Cotenido
+ 
+ El numeral tiene que tener un espacio de la palabra.
+
+```
+# Contenido
 ```
 Si le colocas mas numerales saca la linea y el contenido reduce su tamaño.
 
