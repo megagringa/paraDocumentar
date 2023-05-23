@@ -13,7 +13,7 @@ Si queres que el contenido luzca grande y tenga una linea divisoria.
 
 # Direccionar en la pagina.
 
-## [Iconos](#iconos) 
+[Iconos](#iconos) 
 Te traslada al final de la página.
  ```
  [Iconos](#iconos) ejemplo de arriba.
