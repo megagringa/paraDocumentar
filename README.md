@@ -1,8 +1,8 @@
 # paraDocumentar
 
-Este mini repositorio solo va a ir directo para documentar y dejarlo mucho mas estetico al README.md del proyecto en el que estes trabajando.
-Todo lo que agrego aca esta en la documentación pero es más sencillo tener esto a mano.
-Se va a ir actualizando.
+Repositorio para documentar y dejarlo mucho mas estetico al README.md del proyecto en el que estes trabajando.
+Todo lo que agrego aca está en la documentación pero es más sencillo tener esto a mano.
+Actualizando con constancia.
 
 Si necesitas dejar algún comentario usas los ``` 
 ```
