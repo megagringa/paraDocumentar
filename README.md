@@ -14,7 +14,7 @@ Si queres que el contenido luzca grande y tenga una linea divisoria.
 # Direccionar en la pagina.
 
 [Iconos](#iconos) 
-Te traslada al final de la página.
+Te traslada al final de la página en donde esta el nombre Iconos.
  ```
  [Iconos](#iconos) ejemplo de arriba.
  [nombre](#nombre-igual-dirección)
@@ -23,7 +23,7 @@ Te traslada al final de la página.
 # Linea Divisoria.
 
 ---
-Con hacer tres lineas haces una continua com ola de arriba.
+Con hacer tres lineas haces una continua como la de arriba.
 ```
 ---  
 ```
@@ -61,7 +61,7 @@ Si le colocas mas numerales saca la linea y el contenido reduce su tamaño.
 
 # Redireccionar
 
-[miGitHub](https://github.com/megagringa) si hacers click te direcciona a mi portfolio.
+[miGitHub](https://github.com/megagringa) <== direcciona a mi GitHub.
 
 ``` 
 [nombre-que-quieras](link a donde debe ser drireccionado)
@@ -77,4 +77,4 @@ Si le colocas mas numerales saca la linea y el contenido reduce su tamaño.
 
 # Iconos
 
-📜💻 algunos iconos para usar
+📜💻👨 algunos iconos para usar
