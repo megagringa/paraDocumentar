@@ -38,11 +38,20 @@ Con hacer tres lineas haces una continua como la de arriba.
 Si le colocas mas numerales saca la linea y el contenido reduce su tamaño.
 
 # Item
-- Comentarios
-- Comentarios
+- 
+- 
 ```
-- Comentarios
-- Comentarios
+- 
+- 
+```
+
+# Numeración
+1)
+2)
+
+```
+1)
+2)
 ```
 
 
